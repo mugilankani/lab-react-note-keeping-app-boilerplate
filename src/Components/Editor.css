@@ -1,0 +1,36 @@
+.input{
+    display: inline-block;
+    
+}
+.output{
+    display: inline-block;
+    /* margin-left: 20vw; */
+}
+.input-text{
+    width: 35vw;
+    height: 50vh;
+    background-color: aqua;
+    color: #464646;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+.output-text{
+    color: aliceblue;
+    width: 35vw;
+    height: 50vh;
+    background-color:#464646 ;
+}
+body{
+    background-color: bisque;
+    color: #464646;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+.container{
+    display: flex;
+    gap: 5vw;
+}
+h1{
+    display: block;
+}
